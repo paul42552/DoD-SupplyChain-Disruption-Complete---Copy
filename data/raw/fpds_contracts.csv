@@ -1,0 +1,6 @@
+contract_award_id,vendor_name,naics_code,product_or_service_code,action_date,dollar_obligated,place_of_performance_city,place_of_performance_state,place_of_performance_country
+1234567,Lockheed Martin Corp,336413,1510,2021-07-15,12000000,Fort Worth,TX,USA
+1234568,LOCKHEED MARTIN CORPORATION,336413,1510,07/15/2021,12000000.00,FORT WORTH,Texas,USA
+1234569,Boeing Co,"3364-13",1510,2021-07-20,8000000,,CA,USA
+9876543,Raytheon Technologies,334111,1510,2022-01-02,2500000,Tucson,AZ,USA
+9876544,RAYTHEON TECHNOLOGIES INC,334111,1510,2022-01-15,1750000,Tucson,Arizona,USA
